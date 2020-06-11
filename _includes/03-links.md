@@ -1,1 +1,1 @@
-! [GitHub profile link](https://github.com/kiehozero)
+![GitHub profile link](https://github.com/kiehozero)

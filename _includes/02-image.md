@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Burscough AFC club logo](https://upload.wikimedia.org/wikipedia/en/d/dd/Burscoughafc.png)
